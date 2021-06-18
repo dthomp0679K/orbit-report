@@ -7,6 +7,10 @@
     background-color: #ad07d6;
 }
 
+.stripe {
+    background-color: greenyellow;
+}
+
 table {
   color: #111;
   border-radius: 5px;
